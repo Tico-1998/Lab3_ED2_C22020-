@@ -1,0 +1,14 @@
+Huffman
+prueba0 - copia.txt
+intento.huff
+C:\Users\voca9\Desktop\LAB_3-master\Lab_3\compress\intento.huff
+2.7222222222222223
+0.3673469387755102
+-172.22222222222223
+Huffman
+prueba0 - copia.txt
+intento.huff
+C:\Users\voca9\Desktop\LAB_3-master\Lab_3\decompress\prueba0 - copia.txt
+0
+0
+0
